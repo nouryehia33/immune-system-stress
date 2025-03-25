@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Q3 Project - Immune System</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            background: #e0e0e0;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Q3 Project</h1>
+        <h2>What is the Immune System?</h2>
+        <p>The immune system is made up of a complex network of organs, cells, and proteins that fight infection (microbes).</p>
+        
+        <h3>The main parts of the immune system are:</h3>
+        <ul>
+            <li><strong>WBCs:</strong> Made in bone marrow, these cells (T-cells, B-cells, macrophages) fight invaders.</li>
+            <li><strong>Organs:</strong> Thymus, spleen, and bone marrow produce and store immune cells.</li>
+            <li><strong>Antibodies:</strong> Created by B-cells to neutralize specific invaders.</li>
+            <li><strong>Lymphatic system:</strong> Transports immune cells throughout the body.</li>
+        </ul>
+
+        <h2>Types of Immune System</h2>
+        <ul>
+            <li><strong>Innate Immunity:</strong> First line of defense with physical barriers and broad-range response.</li>
+            <li><strong>Adaptive Immunity:</strong> Remembers past invaders and provides a tailored defense.</li>
+        </ul>
+
+        <h2>What are Autoimmune Diseases?</h2>
+        <p>Autoimmune diseases occur when the immune system mistakenly attacks the body's own cells.</p>
+        
+        <h3>Common Types:</h3>
+        <ul>
+            <li><strong>Lupus:</strong> Attacks skin, kidneys, heart, and joints.</li>
+            <li><strong>Graves' Disease:</strong> Attacks thyroid, causing hyperthyroidism.</li>
+            <li><strong>Type 1 Diabetes:</strong> Destroys insulin-producing cells in the pancreas.</li>
+        </ul>
+
+        <h2>Causes of Autoimmune Diseases</h2>
+        <ul>
+            <li><strong>Genetics:</strong> Family history increases risk.</li>
+            <li><strong>Infections:</strong> Some infections can trigger autoimmune reactions.</li>
+            <li><strong>Environmental Factors:</strong> Exposure to chemicals and toxins can increase risk.</li>
+        </ul>
+        
+        <h2>Effects of Stress and Nutrition on Immune Function</h2>
+        <h3>How Stress Affects Immune Function:</h3>
+        <ul>
+            <li><strong>Weakened Defense:</strong> Lowers immune cell production.</li>
+            <li><strong>Inflammation:</strong> Can cause long-term tissue damage.</li>
+        </ul>
+        
+        <h3>How Nutrition Affects Immune Function:</h3>
+        <ul>
+            <li><strong>Vitamin C:</strong> Helps produce immune cells.</li>
+            <li><strong>Vitamin D:</strong> Regulates immune response.</li>
+            <li><strong>Zinc:</strong> Essential for immune cell function.</li>
+        </ul>
+        
+        <h2>Causes and Risk Factors</h2>
+        <h3>Stress Impact:</h3>
+        <ul>
+            <li>Chronic stress weakens immunity.</li>
+            <li>Sleep deprivation affects immune response.</li>
+            <li>Negative emotions can cause immune dysfunction.</li>
+        </ul>
+        
+        <h3>Nutrition Risk Factors:</h3>
+        <ul>
+            <li>Poor diet high in processed foods.</li>
+            <li>Deficiencies in vitamins and minerals.</li>
+            <li>Malnutrition increases infection risk.</li>
+        </ul>
+        
+        <h2>Treatment and Lifestyle Management</h2>
+        <h3>Stress Management:</h3>
+        <ul>
+            <li>Meditation and relaxation techniques.</li>
+            <li>Regular exercise.</li>
+            <li>Maintaining good sleep hygiene.</li>
+        </ul>
+        
+        <h3>Nutritional Support:</h3>
+        <ul>
+            <li>Balanced diet with essential nutrients.</li>
+            <li>Supplements for deficiencies.</li>
+            <li>Staying hydrated.</li>
+        </ul>
+        
+        <h3>Lifestyle Management:</h3>
+        <ul>
+            <li>Healthy eating habits.</li>
+            <li>Physical activity and social interactions.</li>
+        </ul>
+    </div>
+</body>
+</html>
